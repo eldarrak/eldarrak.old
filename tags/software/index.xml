@@ -11,16 +11,18 @@
     <atom:link href="/tags/software/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Tools for Solar Geolocation data Analysis</title>
+      <title>FLightR: an R package for Solar Geolocation data Analysis</title>
       <link>https://eldarrak.github.io/project/solar_geolocation/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/project/solar_geolocation/</guid>
       <description>
 
-&lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Canter for Ecological Analysis and Synthesis.&lt;/p&gt;
+&lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
 
-&lt;p&gt;The result of my work in this directions is R package FLightR. I hope it will help many researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
+&lt;p&gt;In the end I have developed R package FLightR. I hope it will help many researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
+
+&lt;p&gt;Ask FlightR and general solar geolocation questions at the [ornithologyexchange]&lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 
