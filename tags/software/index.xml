@@ -20,9 +20,12 @@
 
 &lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
 
-&lt;p&gt;In the end I have developed R package FLightR. I hope it will help many researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
+&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
 
-&lt;p&gt;Ask FlightR and general solar geolocation questions at the [ornithologyexchange]&lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
+&lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: Please, do not ask FLightR and other geolocation related questions over email, go with them to &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;ornithologyexchange&lt;/a&gt; and with package problems to the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 

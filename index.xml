@@ -20,6 +20,55 @@
     </item>
     
     <item>
+      <title>Flyway Ecology: Population Ecology of long-distance migrants</title>
+      <link>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;where-and-how-populations-of-seasonal-migrants-are-limited&#34;&gt;Where and how populations of seasonal migrants are limited?&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;how-parts-of-the-annual-cycle-are-interconnected&#34;&gt;How parts of the annual cycle are interconnected?&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h3 id=&#34;how-migrants-adjust-to-the-ongoing-changes&#34;&gt;How migrants adjust to the ongoing changes?&lt;/h3&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the slection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Ruffs&lt;/strong&gt; (&lt;em&gt;Philomachus pugnax&lt;/em&gt;) shifted breeding grounds from Europe to Asia in response to changes on the migratory flyways.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, Y. I. Verkuil, A. A. Saveliev, R. A. Väisänen, J. Karagicheva, M. Y. Soloviev, P. S. Tomkovich, and T. Piersma. A global population redistribution in a migrant shorebird detected with continent-wide qualitative breeding survey data. &lt;strong&gt;&lt;em&gt;Diversity and Distributions&lt;/em&gt;&lt;/strong&gt;, 17(1):  144–151, 2011.&lt;/p&gt;
+
+&lt;p&gt;Y. I. Verkuil, N. Karlionova, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, J. Jukema, J. J. Wijmenga, J. C. W, P. Pinchuk, E. Wymenga, A. J. Baker, and T. Piersma. Losing a staging area: Eastward redistribution of afro-eurasian ruffs is associated with deteriorating fuelling conditions along the western flyway. &lt;strong&gt;&lt;em&gt;Biological Conservation&lt;/em&gt;&lt;/strong&gt;, 149(1): 51–59, 2012.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Red knots&lt;/strong&gt; (&lt;em&gt;Calidris canutus islandica&lt;/em&gt;) compensated strong decrease in survival at the wintering by increase of summer survival.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, P. J. van den Hout, M. Brugge, B. Spaans, and T. Piersma. Seasonal mortality and sequential density dependence in a migratory bird. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 46(4): 332–341, 2015.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Another subspecies of &lt;strong&gt;red knot&lt;/strong&gt; (&lt;em&gt;Calidris canutus canutus&lt;/em&gt;) seem to have trouble with fitting into the wintering ecological niche after growing in a warming Arctic.&lt;/p&gt;
+
+&lt;p&gt;J. A. van Gils, S. Lisovski, T. Lok, W. Meissner, A. Ozarowska, J. de Fouw, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, M. Y. Soloviev, T. Piersma, and M. Klaassen. Body shrinkage due to arctic warming reduces red knot fitness in tropical wintering range. &lt;strong&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/strong&gt;, 352(6287) :819–821, 2016.
+&lt;img src=&#34;https://eldarrak.github.io/img/red_knot_science.jpg&#34; alt=&#34;red_knot_science&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Contrary to them &lt;strong&gt;Bar-tailed godwits&lt;/strong&gt; (&lt;em&gt;Limosa lapponica taymyrensis&lt;/em&gt;) can mitigate effects of climate warming in the Artic by increasing fuelling rates at the refuellign sites (manuscript in revision).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;These are just some first examples of our developments of Flyway Ecology. With the new data colllected globally by &lt;a href=&#34;https://teampiersma.org&#34; target=&#34;_blank&#34;&gt;Theunis&amp;rsquo;s group&lt;/a&gt;, new biologging possibilites (&lt;a href=&#34;https://www.nioz.nl/en/waddenflyways&#34; target=&#34;_blank&#34;&gt;https://www.nioz.nl/en/waddenflyways&lt;/a&gt;, &lt;a href=&#34;http://icarusinitiative.org&#34; target=&#34;_blank&#34;&gt;http://icarusinitiative.org&lt;/a&gt;), and new methods of statistical analysis allowing integration of variable datasets (my interest), we hope to get shortly to the new levels of understanding of ecolgy and evolution migrants and direct conservation efforts in much better ways.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FLightR: an R package for Solar Geolocation data Analysis</title>
       <link>https://eldarrak.github.io/project/solar_geolocation/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
@@ -29,9 +78,12 @@
 
 &lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
 
-&lt;p&gt;In the end I have developed R package FLightR. I hope it will help many researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
+&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
 
-&lt;p&gt;Ask FlightR and general solar geolocation questions at the [ornithologyexchange]&lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
+&lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: Please, do not ask FLightR and other geolocation related questions over email, go with them to &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;ornithologyexchange&lt;/a&gt; and with package problems to the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 
