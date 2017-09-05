@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Flyway Ecology: Population Ecology of long-distance migrants</title>
+      <title>Flyway ecology: full annual cycle ecology of long-distance migrants</title>
       <link>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,7 @@
 &lt;li&gt;&lt;h3 id=&#34;how-migrants-adjust-to-the-ongoing-changes&#34;&gt;How migrants adjust to the ongoing changes?&lt;/h3&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the slection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:&lt;/p&gt;
+&lt;p&gt;To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the selection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -78,7 +78,7 @@
 
 &lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
 
-&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals locations and behavioural states.&lt;/p&gt;
+&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals&amp;rsquo; locations and behavioural states.&lt;/p&gt;
 
 &lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
 &lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
