@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Eldar Rakhimberdiev</copyright>
     <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://eldarrak.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Flyway ecology: full annual cycle ecology of long-distance migrants</title>
@@ -16,47 +18,7 @@
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</guid>
-      <description>
-
-&lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&#34;where-and-how-populations-of-seasonal-migrants-are-limited&#34;&gt;Where and how populations of seasonal migrants are limited?&lt;/h3&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;how-parts-of-the-annual-cycle-are-interconnected&#34;&gt;How parts of the annual cycle are interconnected?&lt;/h3&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;how-migrants-adjust-to-the-ongoing-changes&#34;&gt;How migrants adjust to the ongoing changes?&lt;/h3&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the selection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Ruffs&lt;/strong&gt; (&lt;em&gt;Philomachus pugnax&lt;/em&gt;) shifted breeding grounds from Europe to Asia in response to changes on the migratory flyways.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, Y. I. Verkuil, A. A. Saveliev, R. A. Väisänen, J. Karagicheva, M. Y. Soloviev, P. S. Tomkovich, and T. Piersma. A global population redistribution in a migrant shorebird detected with continent-wide qualitative breeding survey data. &lt;strong&gt;&lt;em&gt;Diversity and Distributions&lt;/em&gt;&lt;/strong&gt;, 17(1):  144–151, 2011.&lt;/p&gt;
-
-&lt;p&gt;Y. I. Verkuil, N. Karlionova, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, J. Jukema, J. J. Wijmenga, J. C. W, P. Pinchuk, E. Wymenga, A. J. Baker, and T. Piersma. Losing a staging area: Eastward redistribution of afro-eurasian ruffs is associated with deteriorating fuelling conditions along the western flyway. &lt;strong&gt;&lt;em&gt;Biological Conservation&lt;/em&gt;&lt;/strong&gt;, 149(1): 51–59, 2012.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Red knots&lt;/strong&gt; (&lt;em&gt;Calidris canutus islandica&lt;/em&gt;) compensated strong decrease in survival at the wintering by increase of summer survival.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, P. J. van den Hout, M. Brugge, B. Spaans, and T. Piersma. Seasonal mortality and sequential density dependence in a migratory bird. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 46(4): 332–341, 2015.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Another subspecies of &lt;strong&gt;red knot&lt;/strong&gt; (&lt;em&gt;Calidris canutus canutus&lt;/em&gt;) seem to have trouble with fitting into the wintering ecological niche after growing in a warming Arctic.&lt;/p&gt;
-
-&lt;p&gt;J. A. van Gils, S. Lisovski, T. Lok, W. Meissner, A. Ozarowska, J. de Fouw, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, M. Y. Soloviev, T. Piersma, and M. Klaassen. Body shrinkage due to arctic warming reduces red knot fitness in tropical wintering range. &lt;strong&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/strong&gt;, 352(6287) :819–821, 2016.
-&lt;img src=&#34;https://eldarrak.github.io/img/red_knot_science.jpg&#34; alt=&#34;red_knot_science&#34; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contrary to them &lt;strong&gt;Bar-tailed godwits&lt;/strong&gt; (&lt;em&gt;Limosa lapponica taymyrensis&lt;/em&gt;) can mitigate effects of climate warming in the Artic by increasing fuelling rates at the refuellign sites (manuscript in revision).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;These are just some first examples of our developments of Flyway Ecology. With the new data colllected globally by &lt;a href=&#34;https://teampiersma.org&#34; target=&#34;_blank&#34;&gt;Theunis&amp;rsquo;s group&lt;/a&gt;, new biologging possibilites (&lt;a href=&#34;https://www.nioz.nl/en/waddenflyways&#34; target=&#34;_blank&#34;&gt;https://www.nioz.nl/en/waddenflyways&lt;/a&gt;, &lt;a href=&#34;http://icarusinitiative.org&#34; target=&#34;_blank&#34;&gt;http://icarusinitiative.org&lt;/a&gt;), and new methods of statistical analysis allowing integration of variable datasets (my interest), we hope to get shortly to the new levels of understanding of ecolgy and evolution migrants and direct conservation efforts in much better ways.&lt;/p&gt;
-</description>
+      <description>Where and how populations of seasonal migrants are limited? How parts of the annual cycle are interconnected? How migrants adjust to the ongoing changes?  To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the selection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:</description>
     </item>
     
     <item>
@@ -65,29 +27,8 @@
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/project/solar_geolocation/</guid>
-      <description>
-
-&lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
-
-&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals&amp;rsquo; locations and behavioural states.&lt;/p&gt;
-
-&lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
-&lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: I cannot answer all FLightR and other geolocation related questions over email, concider &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;ornithologyexchange&lt;/a&gt; and open issues for package problems at the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, D. W. Winkler, E. Bridge, N. E. Seavy, D. Sheldon, T. Piersma, and A. Saveliev. A hidden markov model for reconstructing animal paths from solar geolocation loggers using templates for light intensity. &lt;strong&gt;&lt;em&gt;Movement Ecology&lt;/em&gt;&lt;/strong&gt;, 3(1), 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, N. Senner, M. Verhoeven, D. Winkler, W. Bouten, and T. Piersma. Comparing inferences of solar geolocation data against high-precision gps data: annual movements of a double-tagged black-tailed godwit. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 47(4): 589-596, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;. Ornithology by light levels today: dealing with a developing teenager. &lt;strong&gt;&lt;em&gt;Wader Study&lt;/em&gt;&lt;/strong&gt;, 123(1): 1–3, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, A. Saveliev, T. Piersma, and J. Karagicheva. FLightR: An R package for reconstructing animal paths from solar geolocation loggers. &lt;strong&gt;&lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;&lt;/strong&gt;, 2017.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, F. A. Gandoy, J. I. Areta, M. J. Iliff, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, K. J. Kardynal, and K. A. Hobson. Long-distance range expansion and rapid adjustment of migration in a newly established population of barn swallows breeding in Argentina. &lt;strong&gt;&lt;em&gt;Current Biology&lt;/em&gt;&lt;/strong&gt;, (7): 1080–1084, 2017.&lt;/p&gt;
-</description>
+      <description>While working at Cornell University with David Winkler in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.
+In the end I have developed R package FLightR.</description>
     </item>
     
     <item>
@@ -96,14 +37,7 @@
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/project/breeding_ecology_of_tree_swallows/</guid>
-      <description>&lt;p&gt;I had a pleasure to work in Ithaca with David Winkler. He started and for many years maintains a huge colony of nest boxes. Tree swallows living in these boxes are cute birds with low survival rates and this makes them different  from shorebirds I used to work before. These birds just have to reproduce, so they arrive super early to get a nest box. Lay second clutch if the first was not successful and have to find food despite coldsnaps.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, M. K. Luo, and &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;. Temperature effects on food supply and chick mortality in tree swallows (&lt;em&gt;Tachycineta bicolor&lt;/em&gt;). &lt;strong&gt;&lt;em&gt;Oecologia&lt;/em&gt;&lt;/strong&gt;, (173): 129–138, 2013.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, K. M. Ringelman, P. O. Dunn, L. Whittingham, J. T. Hussell David, R. G. Clark, R. D. Dawson, J. L. Scott, A. Rose, S. H. Austin, R. W. Douglas, M. P. Lombardo, P. A. Thorpe, D. Shutler, R. J. Robertson, M. Stager, M. Leonard, A. G. Horn, J. Dickinson, V. Ferretti, V. Massoni, F. Bulit, J. C. Reboreda, M. Liljesthröm, M. Quiroga, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, and D. R. Ardia. Latitudinal variation in clutch size–lay date regressions in tachycineta swallows: effects of food supply or demography? &lt;strong&gt;&lt;em&gt;Ecography&lt;/em&gt;&lt;/strong&gt;, 37(7): 670–678, 2014.&lt;/p&gt;
-
-&lt;p&gt;J. Karagicheva, M. Liebers, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, K. K. Hallinger, A. Saveliev, and D. W. Winkler. Differences in size between first and replacement clutches match the seasonal decline in single clutches in tree swallows tachycineta bicolor. &lt;strong&gt;&lt;em&gt;Ibis&lt;/em&gt;&lt;/strong&gt;, 158(3): 607-613, 2016.&lt;/p&gt;
-</description>
+      <description>I had a pleasure to work in Ithaca with David Winkler. He started and for many years maintains a huge colony of nest boxes. Tree swallows living in these boxes are cute birds with low survival rates and this makes them different from shorebirds I used to work before. These birds just have to reproduce, so they arrive super early to get a nest box. Lay second clutch if the first was not successful and have to find food despite coldsnaps.</description>
     </item>
     
   </channel>

@@ -8,7 +8,90 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Eldar Rakhimberdiev</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://eldarrak.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://eldarrak.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/about/</guid>
+      <description>I am a quantitative ecologist focused on full annual cycle population ecology of migratory animals. I study how connected parts of annual cycles interact to mitigate effects of climate change and human imposed pressures on population dynamics. For that I develop statistical models, approaches and software. I have recently become interested in use of remote sampling of individual behaviors and movements to infer population limitations and evolution.
+I am currently in search for new perspectives and opportunities, so feel free to contact me.</description>
+    </item>
+    
+    <item>
+      <title>Professional training</title>
+      <link>https://eldarrak.github.io/home/professional_training/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/professional_training/</guid>
+      <description> 2014 Bayesian Population Analysis by Marc Kéry &amp;amp; Michael Schaub, Swiss Ornithological Institute
+ 2012 Zero Inflated Models and Generalized Linear Mixed Models by Alain Zuur &amp;amp; Elena Ieno, Highland Statistics
+ 2011 Wildlife Population Analysis by Evan Cooch, Department of Natural Resources, Cornell University
+ 2011 Embedded Systems at the Department of Computer Science, Cornell University
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://eldarrak.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://eldarrak.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/teaching/</guid>
+      <description>I have developed and taught master student courses at the Department of Vertebrate Zoology Lomonosov Moscow State University (Russia):
+2016-2017 Introductory statistics for zoologists with R
+2005-2015 Databases and statistics for zoologists
+2015 &amp;amp; 2017 I joined prof. Theunis Piersma to teach course on Flyway Ecology at the University of Groningen (The Netherlands).
+As long as I have developed software for solar geolocation analysis (R package FLightR) I teach short courses on solar geolocation data analysis</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://eldarrak.github.io/home/papers/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/papers/</guid>
+      <description>2018 S. Lisovski, H. Schmaljohann, E. S. Bridge, S. Bauer, A. Farnsworth, S. A. Gauthreaux, S. Hahn, M. T. Hallworth, C. M. Hewson, J. F. Kelly, F. Liechti, P. P. Marra, E. Rakhimberdiev, J. D. Ross, N. E. Seavy, M. D. Sumner, C. M. Taylor, D. W. Winkler, S. J. Wotherspoon, and M. B. Wunder. Inherent limits of light-level geolocation may lead to over-interpretation. Current Biology, (28): R99–R100, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://eldarrak.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://eldarrak.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://eldarrak.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

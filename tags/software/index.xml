@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Eldar Rakhimberdiev</copyright>
     <lastBuildDate>Sat, 12 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/software/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://eldarrak.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>FLightR: an R package for Solar Geolocation data Analysis</title>
@@ -16,29 +18,8 @@
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/project/solar_geolocation/</guid>
-      <description>
-
-&lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
-
-&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals&amp;rsquo; locations and behavioural states.&lt;/p&gt;
-
-&lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
-&lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: I cannot answer all FLightR and other geolocation related questions over email, concider &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;ornithologyexchange&lt;/a&gt; and open issues for package problems at the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, D. W. Winkler, E. Bridge, N. E. Seavy, D. Sheldon, T. Piersma, and A. Saveliev. A hidden markov model for reconstructing animal paths from solar geolocation loggers using templates for light intensity. &lt;strong&gt;&lt;em&gt;Movement Ecology&lt;/em&gt;&lt;/strong&gt;, 3(1), 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, N. Senner, M. Verhoeven, D. Winkler, W. Bouten, and T. Piersma. Comparing inferences of solar geolocation data against high-precision gps data: annual movements of a double-tagged black-tailed godwit. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 47(4): 589-596, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;. Ornithology by light levels today: dealing with a developing teenager. &lt;strong&gt;&lt;em&gt;Wader Study&lt;/em&gt;&lt;/strong&gt;, 123(1): 1–3, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, A. Saveliev, T. Piersma, and J. Karagicheva. FLightR: An R package for reconstructing animal paths from solar geolocation loggers. &lt;strong&gt;&lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;&lt;/strong&gt;, 2017.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, F. A. Gandoy, J. I. Areta, M. J. Iliff, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, K. J. Kardynal, and K. A. Hobson. Long-distance range expansion and rapid adjustment of migration in a newly established population of barn swallows breeding in Argentina. &lt;strong&gt;&lt;em&gt;Current Biology&lt;/em&gt;&lt;/strong&gt;, (7): 1080–1084, 2017.&lt;/p&gt;
-</description>
+      <description>While working at Cornell University with David Winkler in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.
+In the end I have developed R package FLightR.</description>
     </item>
     
   </channel>
