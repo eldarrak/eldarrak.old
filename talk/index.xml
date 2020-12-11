@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on </title>
+    <title>Talks on </title>
     <link>https://eldarrak.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <description>Recent content in Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Eldar Rakhimberdiev</copyright>
+    <copyright>&amp;copy; 2020 Eldar Rakhimberdiev</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eldarrak.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Flyway ecology: how long-distance migratory birds adapt to changing Earth’s seasonal environments</title>
+      <link>https://eldarrak.github.io/talk/yale_2019/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/talk/yale_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plenary talk together with Theunis Piersma: Pinning down an ever moving target: establishing when and where migrant shorebird populations are bottlenecked</title>
-      <link>https://eldarrak.github.io/talk/example-talk/</link>
+      <link>https://eldarrak.github.io/talk/prague_2017/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://eldarrak.github.io/talk/example-talk/</guid>
+      <guid>https://eldarrak.github.io/talk/prague_2017/</guid>
       <description></description>
     </item>
     

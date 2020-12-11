@@ -6,7 +6,7 @@
     <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Eldar Rakhimberdiev</copyright>
+    <copyright>&amp;copy; 2020 Eldar Rakhimberdiev</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eldarrak.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/home/about/</guid>
-      <description>I am a quantitative ecologist focused on full annual cycle population ecology of migratory animals. I study how connected parts of annual cycles interact to mitigate effects of climate change and human imposed pressures on population dynamics. For that I develop statistical models, approaches and software. I have recently become interested in use of remote sampling of individual behaviors and movements to infer population limitations and evolution.
-I am currently in search for new perspectives and opportunities, so feel free to contact me.</description>
+      <description>My research lays at the nexus between conservation ecology, statistics, and data science. Having studied adaptation of migratory bird populations to environmental pressures, I am currently on a track to developing a system that will use birds as living sensors for global near real-time detection of environmental pressures.
+I explore how migratory birds adjust their annual routines to environmental stressors as they successively connect arrays of ecosystems laying far away and functioning independently from each other.</description>
     </item>
     
     <item>
@@ -28,11 +28,20 @@ I am currently in search for new perspectives and opportunities, so feel free to
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/home/professional_training/</guid>
-      <description> 2014 Bayesian Population Analysis by Marc Kéry &amp;amp; Michael Schaub, Swiss Ornithological Institute
+      <description>2018 Deep Learning Workshop at the Dutch Data Science week, Amsterdam
+ 2014 Bayesian Population Analysis by Marc Kéry &amp;amp; Michael Schaub, Swiss Ornithological Institute
  2012 Zero Inflated Models and Generalized Linear Mixed Models by Alain Zuur &amp;amp; Elena Ieno, Highland Statistics
  2011 Wildlife Population Analysis by Evan Cooch, Department of Natural Resources, Cornell University
- 2011 Embedded Systems at the Department of Computer Science, Cornell University
-  </description>
+ 2011 Embedded Systems at the Department of Computer Science, Cornell University</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://eldarrak.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -45,43 +54,35 @@ I am currently in search for new perspectives and opportunities, so feel free to
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://eldarrak.github.io/home/teaching/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/home/teaching/</guid>
-      <description>In 2018 I have developed and taught Bayesian Population Modelling part in &amp;lsquo;Advanced Population and Community Ecology&amp;rsquo; course for masters students in Conservation Ecology at the University of Groningen (The Netherlands)
-I have developed and taught master student courses at the Department of Vertebrate Zoology Lomonosov Moscow State University (Russia):
- 2016-2019 Introductory statistics for zoologists with R
- 2005-2015 Databases and statistics for zoologists
-  2015, 2017 &amp;amp; 2018 I joined prof.</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://eldarrak.github.io/home/papers/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/home/papers/</guid>
-      <description>2018 E. Rakhimberdiev, S. Duijns, J. Karagicheva, C. J. Camphuysen, A. Dekinga, R. Dekker, A. Gavrilov, H. J. ten, J. Jukema, A. Saveliev, M. Soloviev, T. T. Lee, J. A. van Gils, and T. Piersma, Fuelling conditions at staging sites can mitigate arctic warming effects in a migratory bird. Nature communications, 9, 2018.
-J. Karagicheva, E. Rakhimberdiev, A. Saveliev, and T. Piersma. Annual chronotypes functionally link life histories and life cycles in birds.</description>
+      <description>2020 S. Lisovski, S. Bauer, M. Briedis, S.C. Davidson, K.L. Dhanjal-Adams, M.T. Hallworth, J. Karagicheva, C.M. Meier, B. Merkel, J. Ouwehand, L. Pedersen, E. Rakhimberdiev, A. Roberto-Charron, N.E. Seavy, M.D. Sumner, C.M. Taylor, S.J. Wotherspoon, and E.S. Bridge. Light-level geolocator analyses: A user&amp;rsquo;s guide. Journal of Animal Ecology, 2020.
+K. P. Lamers, M. Nicolaus, E. Rakhimberdiev, J. Nilsson, and C. Both. Descriptive and experimental evidence for timing-mediated polygyny risk in a pied flycatcher (Ficedula hypoleuca) population.</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Teaching</title>
+      <link>https://eldarrak.github.io/home/teaching/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldarrak.github.io/home/teaching/</guid>
+      <description>Bachelor students
+2010-2011 Undergraduate students honours theses supervision at the Department of Ecology and Evolutionary Biology, Cornell University, USA. Two papers published with the students – Winkler et al. 2013, Karagicheva et al. 2016.
+2003-2005 Vertebrate Zoology course at the Biological Faculty of Lomonosov Moscow State University.
+Masters students
+I developed and taught master student courses at the Department of Vertebrate Zoology Lomonosov Moscow State University (Russia):
+2016-2020 Introductory statistics for zoologists with R</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
       <link>https://eldarrak.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eldarrak.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://eldarrak.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/home/posts/</guid>
       <description></description>
     </item>
     
