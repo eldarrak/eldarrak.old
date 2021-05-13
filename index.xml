@@ -1,209 +1,327 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Eldar Rakhimberdiev</title>
     <link>https://eldarrak.github.io/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Eldar Rakhimberdiev</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eldarrak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eldar Rakhimberdiev</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Eldar Rakhimberdiev</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eldarrak.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Eldar Rakhimberdiev</title>
+      <link>https://eldarrak.github.io/</link>
+    </image>
     
     <item>
-      <title>Godwit Landscapes Project: bio-indicators of ecologically sustainable farming</title>
-      <link>https://eldarrak.github.io/post/phd-positons_2020/</link>
+      <title>Movement ecology of migratory birds</title>
+      <link>https://eldarrak.github.io/project/movement-ecology-of-migratory-birds/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/movement-ecology-of-migratory-birds/</guid>
+      <description>&lt;p&gt;Conservation of populations of migratory birds requires knowledge of their annual routines. To study bird migration I develop and apply a range of animal tracking techniques from stable isotopes and solar geolocation, to Argos Doppler and recently GPS tracking with ICARUS tags.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Solar geolocation.&lt;/strong&gt; Working at Cornell I focused on developing statistical methods and software for the analysis of data collected by solar geolocators. Solar geolocators record light intensity values over time and are the lightest (0.34 g) available trackers that can be deployed on birds of a broad range of body size. I have developed a hidden Markov model that allows estimation of the geographic position of an animal from the recorded light levels. The likelihood of the model matches the observed rate of change in light intensity versus the expected one (Rakhimberdiev &lt;em&gt;et al.&lt;/em&gt; Mov. Ecol. 2015). Implemented in the CRAN R package FLightR, the model provides estimates of migration schedules, locations and migratory routes of the tracked birds (Rakhimberdiev et. al., Methods Ecol. Evol. 2017, see also &lt;a href=&#34;https://methodsblog.com/2018/06/12/solar-geolocation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my blog post&lt;/a&gt; ). The accuracy and precision of the model was tested in a study tracking a black-tailed godwit wearing two tags – a GPS and a geolocator (Rakhimberdiev et al. J. Avian Biol. 2016).&lt;/p&gt;
+&lt;p&gt;Recently we published a review on solar geolocation analysis methods in the Journal of Animal Ecology (Lisovski et. al. 2020).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: For my limited capacity for answering all FLightR and other geolocation related questions over email, please, consider &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ornithologyexchange&lt;/a&gt; and open issues for package problems at the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Isotope signatures in tissues.&lt;/strong&gt; For the birds recaptured after the migration flights we have developed an approach inferring duration of stopover based on the different rate of change of isotopic signatures between tissues (in this case blood plasma and cells). This method can be applied to birds of any size and allows to figure out whether an animal made a stop on the way and for how long did it stay.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Argos Doppler tracking.&lt;/strong&gt; This technique is the most used for tracking of migratory birds whose body mass exceeds 100g. It works well for studies at a continental scale, e.g. to explore whether bar-tailed godwits made stops migrating from the Wadden Sea, Northern Europe, to the Taimyr Peninsula, Arctic Russia (Nat. Comms. 2018). A serious issue of Argos Doppler tracking is that the positions have strongly varying spatial errors. Although Argos system supplies the information on the errors and strongly recommends using this information in the analyses, this recommendation is rarely followed. In collaboration with Dr. Julia Karagicheva I developed an approach that allows to account for these uncertainties in habitat use studies (Karagicheva et al. &lt;em&gt;in prep.&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. GPS tracking.&lt;/strong&gt; GPS tracking is becoming leading technology in animal movement studies, as GPS provides yet the highest  precision geographic positions, while miniaturization of GPS chips enables their use on a progressively broader spectrum of animals. The main limitation of GPS tracking is data transmission to the user as it commonly requires close contact with the tracked animal, e.g. in the &lt;a href=&#34;https://www.uva-bits.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UvA-BiTS system&lt;/a&gt;, developed at the University of Amsterdam, it takes tens of minutes to transmit data from the tag to handheld  (Rakhimberdiev et. al. 2015). At the moment the global data transmission is just becoming available via the antenna installed in the International Space Station (&lt;a href=&#34;https://www.icarus.mpg.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICARUS initiative&lt;/a&gt;). Over the last five years I was involved with beta testing of this system and am currently deploying ICARUS tags on Black-tailed godwits. Finally, in 2021, ICARUS works without any problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Data storage infrastructures.&lt;/strong&gt; There are several platforms for cloud storage and analysis of the movement data with the largest of them  – Movebank –accommodating principally all movement data types, from geolocator to ICARUS. I collaborate with Sarah Davidson on development of Movebank data standards (co-PI on solar geolocation data standard and software development at &lt;a href=&#34;https://www.nceas.ucsb.edu/workinggroups/establishing-open-source-animal-tracking-analysis-platform-archival-geolocators&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCEAS project establishing open source animal tracking analysis platform for archival geolocators&lt;/a&gt;), and with Martin Wikelski and Walter Jetz on development of data sharing licenses and cloud analysis services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population ecology and conservation of migratory birds</title>
+      <link>https://eldarrak.github.io/project/population-ecology-and-conservation-of-migratory-birds/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/population-ecology-and-conservation-of-migratory-birds/</guid>
+      <description>&lt;p&gt;Every year migratory birds travel Earth ecosystems in a pursuit of seasonal peaks of resources. Separated by thousands of kilometres and exposed to various climatic and anthropogenic disturbances, these ecosystems change in different ways and at diverse rates. It is most intriguing to me how the long-distance migrants fit their annual routines to these nonaligned trends they encounter running through their annual routine.&lt;/p&gt;
+&lt;p&gt;I took a deeper look into the ways migratory bird populations respond to the variation in conditions along the flyways. For this, I have applied a mixture of - often self-developed - analytical techniques, and integrated numerous demographic (capture-resight) and other data on birds’ biology with Earth-observation datasets. My main discovery is that (1) in stable avian populations, selection pressure is evenly distributed throughout the annual cycle and (2) seeking to achieve stability, the populations dissolve elevated selection pressures that arise during specific stages in the annual cycle by taking on higher fitness costs at other stages.&lt;/p&gt;
+&lt;p&gt;In Rakhimberdiev et al. 2016, J. Avian Biol. I use red knot Calidris canutus as an example to present my insight that deviation of mortality rates from baseline values anywhere in the annual cycle is a sign of maladaptation. I explore specific cases of rapid adaptation of annual routines in several migratory avian species: the ruff Philomachus pugnax (Rakhimberdiev et al. 2011, Div. Distr.), North American barn swallow Hirundo rustica (Winkler et al. 2017, Cur. Biol.) and the bar-tailed godwit Limosa lapponica (Rakhimberdiev et al. 2018, Nat. Comms). The latter publication demonstrates the mechanisms of fitness-cost redistribution from the breeding season to the earlier annual-cycle stages. However, redistribution of costs is limited, when selection pressure irreversibly carries over from the early developmental stages to adulthood (van Gils et al. 2016, Science).&lt;/p&gt;
+&lt;p&gt;The Dutch population of black-tailed godwits (Limosa limosa limosa) is going down, and the reason for the decline appears to be high level of nesting failure and brood mortality caused by intensification of agricultural practices. Currently I develop integrated population models to improve conservation of this species. Together with PhD student Marie Stessens and postdoc Dr. Rienk Fokkema I combine large and diverse datasets (including capture-resight of adults and juveniles, nest monitoring, chick radio-tracking and count data) within a spatially explicit model to determine the best agricultural practices for conservation of black-tailed godwits in the Netherlands.&lt;/p&gt;
+&lt;p&gt;In capture-recapture data collected within the project, I have discovered strong bias in estimates of survival probability arising from erroneous identification of individuals. I solve this problem by introducing a new class of robust design capture-resight models, accounting for misidentification (Rakhimberdiev et al., in revision, Methods Ecol. Evol.). Unbiased estimates delivered by these models are of critical importance for robust prognosis of population dynamics in animal conservation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Living sentinels - an animal-based early warning system for environmental and wildlife welfare monitoring</title>
+      <link>https://eldarrak.github.io/project/living-sentinels-an-animal-based-early-warning-system-for-environmental-and-wildlife-welfare-monitoring/</link>
+      <pubDate>Mon, 10 May 2021 03:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/living-sentinels-an-animal-based-early-warning-system-for-environmental-and-wildlife-welfare-monitoring/</guid>
+      <description>&lt;p&gt;Current technology enables instant remote surveillance of environmental and wildlife welfare through observations of animals, who are the top environmental experts. When animals face environmental disasters, disturbance, or scarcity of resources, they change their behaviour. These stress-induced changes can be traced in movement time-series and used to pinpoint even latent environmental pressures experienced by individuals.&lt;/p&gt;
+&lt;p&gt;Today, thousands of animals of many species wear tracking devices that transmit measurements of their movements to central repositories. With these measurements, available to me through collaborations with Wikelski (Movebank), Jetz (Yale) and Bouten (University of Amsterdam), I build on the existing array of indicators of stress (changes in rhythmicity of behaviour, complexity of movements and early warning indicators) and on explosive progress in machine learning to develop a framework that uses these animals as living sensors. Implemented within &lt;a href=&#34;https://www.movebank.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movebank&lt;/a&gt; and &lt;a href=&#34;https://www.uva-bits.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UvA-BiTS&lt;/a&gt; movement data infrastructures, my animal-sensing approach will estimate likelihood of stress experienced by animals to enable near real-time global nature monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Misidentification errors in reencounters result in biased estimates of survival from CJS models</title>
+      <link>https://eldarrak.github.io/talk/misidentification-errors-in-reencounters-result-in-biased-estimates-of-survival-from-cjs-models/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/misidentification-errors-in-reencounters-result-in-biased-estimates-of-survival-from-cjs-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godwit Landscapes Project - bio-indicators of ecologically sustainable farming</title>
+      <link>https://eldarrak.github.io/post/godwit-landscapes-project/</link>
       <pubDate>Thu, 17 Dec 2020 14:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/post/phd-positons_2020/</guid>
+      <guid>https://eldarrak.github.io/post/godwit-landscapes-project/</guid>
       <description>&lt;p&gt;We have 5 PhD positions open for applications at the University of Groningen within the &lt;strong&gt;Godwit Landscapes Project: bio-indicators of ecologically sustainable farming&lt;/strong&gt;. The positions are part of a larger project funded by LNV (Dutch Ministry of Agriculture, Nature and Food quality), European LIFE integrated projects (LIFE IP), the Province of Fryslân and Birdlife Netherlands with the Black-tailed godwit (Limosa limosa limosa) as our focal species. Within a landscape-scale ecosystem-based approach, that connects a long-term monitored population of godwits to changes in land-use, distribution of food sources and predators, we aim to understand how declining trends in farmland biodiversity can be reversed by more sustainable agricultural practices. We will achieve this with a large and collaborative team of researchers (incl. 7 PhD’s &amp;amp; 4 postdocs) focusing on godwit ecology, demography, spatial distribution, food sources (ecology of insect and soil fauna), predators and socio-economical value.&lt;/p&gt;
-
 &lt;p&gt;In the context of this project, the following 5 PhD positions are now open for applications:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;PhD in Black-tailed godwit management &amp;amp; demography &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080SP&amp;amp;cat=phd&#34; target=&#34;_blank&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080SP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PhD in the ecology of Arthropod populations impacted by agriculture &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080TP&amp;amp;cat=phd&#34; target=&#34;_blank&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080TP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PhD in the spatial ecology of migratory grassland breeding birds &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080UP&amp;amp;cat=phd&#34; target=&#34;_blank&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080UP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PhD in ecology of soil macrofauna in farmland ecosystems &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080VP&amp;amp;cat=phd&#34; target=&#34;_blank&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080VP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PhD on the ecological role of predators on ground-nesting birds &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080WP&amp;amp;cat=phd&#34; target=&#34;_blank&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080WP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD in Black-tailed godwit management &amp;amp; demography &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080SP&amp;amp;cat=phd&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080SP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD in the ecology of Arthropod populations impacted by agriculture &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080TP&amp;amp;cat=phd&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080TP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD in the spatial ecology of migratory grassland breeding birds &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080UP&amp;amp;cat=phd&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080UP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD in ecology of soil macrofauna in farmland ecosystems &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080VP&amp;amp;cat=phd&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080VP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhD on the ecological role of predators on ground-nesting birds &lt;a href=&#34;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080WP&amp;amp;cat=phd&#34;&gt;https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S00080WP&amp;amp;cat=phd&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;The deadline for applications is &lt;strong&gt;10 January 2021&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Flyway ecology: how long-distance migratory birds adapt to changing Earth’s seasonal environments</title>
-      <link>https://eldarrak.github.io/talk/yale_2019/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/talk/yale_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ancient timers in dynamic environments</title>
-      <link>https://eldarrak.github.io/post/phd-positon-2019/</link>
-      <pubDate>Tue, 10 Apr 2018 20:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/post/phd-positon-2019/</guid>
-      <description>
-
-&lt;p&gt;Our world is constantly cycling, with seasons passing by, the day coming after the night, the moon turning around the Earth and driving tidal rhythms. All living organisms have to align their lives with these cycles. It has long been studied how the ancient time-keeping programs regulate animal physiological and behavioural cycles at annual, daily or tidal or lunar scales. In avian chronobiology, experiments by Ebo Gwinner and Viktor Dolnik have become a classic. Recently, our supervisory team and others have been breathing new life in studies of nature’s enigmatic rhythms.&lt;/p&gt;
-
+      <link>https://eldarrak.github.io/post/wild-clocks-announcement/</link>
+      <pubDate>Fri, 10 Jan 2020 20:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/post/wild-clocks-announcement/</guid>
+      <description>&lt;p&gt;Our world is constantly cycling, with seasons passing by, the day coming after the night, the moon turning around the Earth and driving tidal rhythms. All living organisms have to align their lives with these cycles. It has long been studied how the ancient time-keeping programs regulate animal physiological and behavioural cycles at annual, daily or tidal or lunar scales. In avian chronobiology, experiments by Ebo Gwinner and Viktor Dolnik have become a classic. Recently, our supervisory team and others have been breathing new life in studies of nature&amp;rsquo;s enigmatic rhythms.&lt;/p&gt;
 &lt;p&gt;Many birds are born with internal time-keepers that help them anticipate rhythmic changes in the environment, such as the coming of spring and autumn. Birds then prepare to migrate, to breed, and to moult, just in time for the change of seasons. However, in our times environments are changing rapidly. Therefore, we need a better understanding of  time-keeping programs. This PhD project seeks to dissect biological time-keeping and look at it from the ecological perspective.&lt;/p&gt;
-
 &lt;p&gt;Nowadays, novel technologies, state-of-the-art analytical methods and the tools for remote observation open up new opportunities to look at biological clocks at a different level and, importantly, to answer acute questions, such as:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;How migratory birds change their routines to the diverse environmental cycling along the flyway.&lt;/li&gt;
 &lt;li&gt;How do they adjust when environmental cycles get disrupted.&lt;/li&gt;
-&lt;li&gt;How the ability, the pace and the pathways of adjustment depend on species’ life history.&lt;/li&gt;
+&lt;li&gt;How the ability, the pace and the pathways of adjustment depend on species&#39; life history.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;We offer a fascinating and flexible PhD project, with a focus on avian time-keeping, but also with &lt;strong&gt;several options that a student can shape according to  his/her interests&lt;/strong&gt;. It will consist of the following 3 work packages:&lt;/p&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysis of already collected data on time-keeping in captive birds&lt;/strong&gt;. Using existing unique long-term data from captive waders and songbirds, the student will look at birds’ ability to shift from internal time-keeping program to the rhythmic environment. We will examine whether the birds’ shifts depend on life-cycle stage.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Analysis of data on behavioural routines of individuals from wearable trackers&lt;/strong&gt;. Using GPS and accelerometry data from free-flying birds of various species, the student will study the birds’ time-keeping in the wild and detect changes in their synchronization with their environments. With our help, the PhD student will (1) reveal behavioural cycles using  machine learning to classify behaviour from accelerometery data and (2) match the behavioural cycles with animals’ locations from GPS data and with environmental cycles from numerical model predictions and/or Earth Observation datasets.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Experimental work in captivity&lt;/strong&gt;. Using captive facilities, in Groningen and possibly also in Russia, the student will be able to learn about, and carry out, studies of seasonal biology.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Analysis of already collected data on time-keeping in captive birds&lt;/strong&gt;. Using existing unique long-term data from captive waders and songbirds, the student will look at birds&#39; ability to shift from internal time-keeping program to the rhythmic environment. We will examine whether the birds&#39; shifts depend on life-cycle stage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Analysis of data on behavioural routines of individuals from wearable trackers&lt;/strong&gt;. Using GPS and accelerometry data from free-flying birds of various species, the student will study the birds&#39; time-keeping in the wild and detect changes in their synchronization with their environments. With our help, the PhD student will (1) reveal behavioural cycles using  machine learning to classify behaviour from accelerometery data and (2) match the behavioural cycles with animals&#39; locations from GPS data and with environmental cycles from numerical model predictions and/or Earth Observation datasets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Experimental work in captivity&lt;/strong&gt;. Using captive facilities, in Groningen and possibly also in Russia, the student will be able to learn about, and carry out, studies of seasonal biology.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;There is also scope for more in-depth quantitative approaches, for example modelling of annual-cycle activities or effects of climate change.&lt;/p&gt;
-
 &lt;p&gt;The PhD project will take 4 years, of which 3 will be spent in Russia with interspersed visits to the Netherlands. The final year, and the initial PhD defence, will take place in the Netherlands.&lt;/p&gt;
-
-&lt;p&gt;The project will be supervised by Eldar Rakhimberdiev (Moscow State University), Julia Karagicheva (Royal Netherlands Institute for Sea Research) and Barbara Helm (University of Groningen).&lt;/p&gt;
-
-&lt;p&gt;Interested? Please &lt;strong&gt;contact Eldar Rakhimberdiev&lt;/strong&gt; eldarrak@gmail.com&lt;/p&gt;
-
+&lt;p&gt;The project will be supervised by &lt;a href=&#34;https://eldarrak.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eldar Rakhimberdiev&lt;/a&gt; (Moscow State University), Julia Karagicheva (Royal Netherlands Institute for Sea Research) and &lt;a href=&#34;https://www.rug.nl/staff/b.helm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barbara Helm&lt;/a&gt; (University of Groningen).&lt;/p&gt;
+&lt;p&gt;Interested? Please &lt;strong&gt;contact Eldar Rakhimberdiev&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Akesson, S., M. Ilieva, J. Karagicheva, E. Rakhimberdiev, B. Tomotani and B. Helm (2017). &amp;ldquo;Timing avian long-distance migration: from internal clock mechanisms to global flights.&amp;rdquo; Philosophical Transactions of the Royal Society B: Biological Sciences 372(1734).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Berger, A., K-M. Scheibe, S. Michaelis, and W. J. Streich. &amp;ldquo;Evaluation of living conditions of free-ranging animals by automated chronobiological analysis of behavior.&amp;rdquo; Behavior Research Methods, Instruments, &amp;amp; Computers 35, no. 3 (2003): 458-466.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Helm, B., R. Ben-Shlomo, M. J. Sheriff, R. A. Hut, R. Foster, B. M. Barnes and D. Dominoni (2013). &amp;ldquo;Annual rhythms that underlie phenology: biological time-keeping meets environmental change.&amp;rdquo; Proceedings of the Royal Society B: Biological Sciences 280(1765).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Karagicheva, J., E. Rakhimberdiev, A. Saveliev and T. Piersma (2018). &amp;ldquo;Annual chronotypes functionally link life histories and life cycles in birds.&amp;rdquo; Functional Ecology 32(10): 2369-2379.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Akesson, S., M. Ilieva, J. Karagicheva, E. Rakhimberdiev, B. Tomotani and B. Helm (2017). &amp;ldquo;Timing avian long-distance migration: from internal clock mechanisms to global flights.&amp;rdquo; Philosophical Transactions of the Royal Society B: Biological Sciences 372(1734).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Berger, A., K-M. Scheibe, S. Michaelis, and W. J. Streich. &amp;ldquo;Evaluation of living conditions of free-ranging animals by automated chronobiological analysis of behavior.&amp;rdquo; Behavior Research Methods, Instruments, &amp;amp; Computers 35, no. 3 (2003): 458-466.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Helm, B., R. Ben-Shlomo, M. J. Sheriff, R. A. Hut, R. Foster, B. M. Barnes and D. Dominoni (2013). &amp;ldquo;Annual rhythms that underlie phenology: biological time-keeping meets environmental change.&amp;rdquo; Proceedings of the Royal Society B: Biological Sciences 280(1765).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Karagicheva, J., E. Rakhimberdiev, A. Saveliev and T. Piersma (2018). &amp;ldquo;Annual chronotypes functionally link life histories and life cycles in birds.&amp;rdquo; Functional Ecology 32(10): 2369-2379.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Plenary talk together with Theunis Piersma: Pinning down an ever moving target: establishing when and where migrant shorebird populations are bottlenecked</title>
-      <link>https://eldarrak.github.io/talk/prague_2017/</link>
-      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/talk/prague_2017/</guid>
+      <title>Flyway ecology - how long-distance migratory birds adapt to changing Earth’s seasonal environments</title>
+      <link>https://eldarrak.github.io/talk/flyway-ecology-how-long-distance-migratory-birds-adapt-to-changing-earths-seasonal-environments/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/flyway-ecology-how-long-distance-migratory-birds-adapt-to-changing-earths-seasonal-environments/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Flyway ecology: full annual cycle ecology of long-distance migrants</title>
-      <link>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</guid>
-      <description>
-
+      <title>Slides</title>
+      <link>https://eldarrak.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;h3 id=&#34;where-and-how-populations-of-seasonal-migrants-are-limited&#34;&gt;Where and how populations of seasonal migrants are limited?&lt;/h3&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;how-parts-of-the-annual-cycle-are-interconnected&#34;&gt;How parts of the annual cycle are interconnected?&lt;/h3&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;h3 id=&#34;how-migrants-adjust-to-the-ongoing-changes&#34;&gt;How migrants adjust to the ongoing changes?&lt;/h3&gt;&lt;/li&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the selection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:&lt;/p&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 
-&lt;hr /&gt;
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
 
-&lt;p&gt;&lt;strong&gt;Ruffs&lt;/strong&gt; (&lt;em&gt;Philomachus pugnax&lt;/em&gt;) shifted breeding grounds from Europe to Asia in response to changes on the migratory flyways.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, Y. I. Verkuil, A. A. Saveliev, R. A. Väisänen, J. Karagicheva, M. Y. Soloviev, P. S. Tomkovich, and T. Piersma. A global population redistribution in a migrant shorebird detected with continent-wide qualitative breeding survey data. &lt;strong&gt;&lt;em&gt;Diversity and Distributions&lt;/em&gt;&lt;/strong&gt;, 17(1):  144–151, 2011.&lt;/p&gt;
-
-&lt;p&gt;Y. I. Verkuil, N. Karlionova, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, J. Jukema, J. J. Wijmenga, J. C. W, P. Pinchuk, E. Wymenga, A. J. Baker, and T. Piersma. Losing a staging area: Eastward redistribution of afro-eurasian ruffs is associated with deteriorating fuelling conditions along the western flyway. &lt;strong&gt;&lt;em&gt;Biological Conservation&lt;/em&gt;&lt;/strong&gt;, 149(1): 51–59, 2012.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Red knots&lt;/strong&gt; (&lt;em&gt;Calidris canutus islandica&lt;/em&gt;) compensated strong decrease in survival at the wintering by increase of summer survival.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, P. J. van den Hout, M. Brugge, B. Spaans, and T. Piersma. Seasonal mortality and sequential density dependence in a migratory bird. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 46(4): 332–341, 2015.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Another subspecies of &lt;strong&gt;red knot&lt;/strong&gt; (&lt;em&gt;Calidris canutus canutus&lt;/em&gt;) seem to have trouble with fitting into the wintering ecological niche after growing in a warming Arctic.&lt;/p&gt;
-
-&lt;p&gt;J. A. van Gils, S. Lisovski, T. Lok, W. Meissner, A. Ozarowska, J. de Fouw, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, M. Y. Soloviev, T. Piersma, and M. Klaassen. Body shrinkage due to arctic warming reduces red knot fitness in tropical wintering range. &lt;strong&gt;&lt;em&gt;Science&lt;/em&gt;&lt;/strong&gt;, 352(6287) :819–821, 2016.
-&lt;img src=&#34;https://eldarrak.github.io/img/red_knot_science.jpg&#34; alt=&#34;red_knot_science&#34; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Contrary to them &lt;strong&gt;Bar-tailed godwits&lt;/strong&gt; (&lt;em&gt;Limosa lapponica taymyrensis&lt;/em&gt;) can mitigate effects of climate warming in the Artic by increasing fuelling rates at the refuellign sites.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, S. Duijns, J. Karagicheva, C. J. Camphuysen, A. Dekinga, R. Dekker, A. Gavrilov, H. J. ten, J. Jukema, A. Saveliev, M. Soloviev, T. T. Lee, J. A. van Gils, and T. Piersma, Fuelling conditions at staging sites can mitigate arctic warming effects in a migratory bird. &lt;strong&gt;&lt;em&gt;Nature communications&lt;/em&gt;&lt;/strong&gt;, 9, 2018.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;These are just some first examples of our developments of Flyway Ecology. With the new data colllected globally by &lt;a href=&#34;https://teampiersma.org&#34; target=&#34;_blank&#34;&gt;Theunis&amp;rsquo;s group&lt;/a&gt;, new biologging possibilites (&lt;a href=&#34;https://www.nioz.nl/en/waddenflyways&#34; target=&#34;_blank&#34;&gt;https://www.nioz.nl/en/waddenflyways&lt;/a&gt;, &lt;a href=&#34;http://icarusinitiative.org&#34; target=&#34;_blank&#34;&gt;http://icarusinitiative.org&lt;/a&gt;), and new methods of statistical analysis allowing integration of variable datasets (my interest), we hope to get shortly to the new levels of understanding of ecolgy and evolution migrants and direct conservation efforts in much better ways.&lt;/p&gt;
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>FLightR: an R package for Solar Geolocation data Analysis</title>
-      <link>https://eldarrak.github.io/project/solar_geolocation/</link>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/solar_geolocation/</guid>
-      <description>
-
-&lt;p&gt;While working at Cornell University with &lt;a href=&#34;http://www.eeb.cornell.edu/winkler/wordpress&#34; target=&#34;_blank&#34;&gt;David Winkler&lt;/a&gt; in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;&lt;a href=&#34;https://www.nceas.ucsb.edu/featured/bridge&#34; target=&#34;_blank&#34;&gt;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&lt;/a&gt;&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.&lt;/p&gt;
-
-&lt;p&gt;In the end I have developed R package &lt;strong&gt;FLightR&lt;/strong&gt;. I hope it will help researchers to get year round estimates of migratory animals&amp;rsquo; locations and behavioural states.&lt;/p&gt;
-
-&lt;p&gt;Here is how &lt;strong&gt;FLightR&lt;/strong&gt; works:
-&lt;img src=&#34;https://eldarrak.github.io/img/geolocation_move_ecol.jpg&#34; alt=&#34;geolocation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: I cannot answer all FLightR and other geolocation related questions over email, concider &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34;&gt;ornithologyexchange&lt;/a&gt; and open issues for package problems at the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, D. W. Winkler, E. Bridge, N. E. Seavy, D. Sheldon, T. Piersma, and A. Saveliev. A hidden markov model for reconstructing animal paths from solar geolocation loggers using templates for light intensity. &lt;strong&gt;&lt;em&gt;Movement Ecology&lt;/em&gt;&lt;/strong&gt;, 3(1), 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, N. Senner, M. Verhoeven, D. Winkler, W. Bouten, and T. Piersma. Comparing inferences of solar geolocation data against high-precision gps data: annual movements of a double-tagged black-tailed godwit. &lt;strong&gt;&lt;em&gt;Journal of Avian Biology&lt;/em&gt;&lt;/strong&gt;, 47(4): 589-596, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;. Ornithology by light levels today: dealing with a developing teenager. &lt;strong&gt;&lt;em&gt;Wader Study&lt;/em&gt;&lt;/strong&gt;, 123(1): 1–3, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, A. Saveliev, T. Piersma, and J. Karagicheva. FLightR: An R package for reconstructing animal paths from solar geolocation loggers. &lt;strong&gt;&lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;&lt;/strong&gt;, 2017.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, F. A. Gandoy, J. I. Areta, M. J. Iliff, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, K. J. Kardynal, and K. A. Hobson. Long-distance range expansion and rapid adjustment of migration in a newly established population of barn swallows breeding in Argentina. &lt;strong&gt;&lt;em&gt;Current Biology&lt;/em&gt;&lt;/strong&gt;, (7): 1080–1084, 2017.&lt;/p&gt;
-
-&lt;p&gt;S. Lisovski, H. Schmaljohann, E. S. Bridge, S. Bauer, A. Farnsworth, S. A. Gauthreaux, S. Hahn, M. T. Hallworth, C. M. Hewson, J. F. Kelly, F. Liechti, P. P. Marra, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, J. D. Ross, N. E. Seavy, M. D. Sumner, C. M. Taylor, D. W. Winkler, S. J. Wotherspoon, and M. B. Wunder. Inherent limits of light-level geolocation may lead to over-interpretation. &lt;strong&gt;&lt;em&gt;Current Biology&lt;/em&gt;&lt;/strong&gt;, (28): R99–R100, 2018.&lt;/p&gt;
+      <title>Privacy Policy</title>
+      <link>https://eldarrak.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://eldarrak.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Breeding ecology of tree swallows</title>
-      <link>https://eldarrak.github.io/project/breeding_ecology_of_tree_swallows/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/breeding_ecology_of_tree_swallows/</guid>
-      <description>&lt;p&gt;I had a pleasure to work in Ithaca with David Winkler. He started and for many years maintains a huge colony of nest boxes. Tree swallows living in these boxes are cute birds with low survival rates and this makes them different  from shorebirds I used to work before. These birds just have to reproduce, so they arrive super early to get a nest box. Lay second clutch if the first was not successful and have to find food despite coldsnaps.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, M. K. Luo, and &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;. Temperature effects on food supply and chick mortality in tree swallows (&lt;em&gt;Tachycineta bicolor&lt;/em&gt;). &lt;strong&gt;&lt;em&gt;Oecologia&lt;/em&gt;&lt;/strong&gt;, (173): 129–138, 2013.&lt;/p&gt;
-
-&lt;p&gt;D. W. Winkler, K. M. Ringelman, P. O. Dunn, L. Whittingham, J. T. Hussell David, R. G. Clark, R. D. Dawson, J. L. Scott, A. Rose, S. H. Austin, R. W. Douglas, M. P. Lombardo, P. A. Thorpe, D. Shutler, R. J. Robertson, M. Stager, M. Leonard, A. G. Horn, J. Dickinson, V. Ferretti, V. Massoni, F. Bulit, J. C. Reboreda, M. Liljesthröm, M. Quiroga, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, and D. R. Ardia. Latitudinal variation in clutch size–lay date regressions in tachycineta swallows: effects of food supply or demography? &lt;strong&gt;&lt;em&gt;Ecography&lt;/em&gt;&lt;/strong&gt;, 37(7): 670–678, 2014.&lt;/p&gt;
-
-&lt;p&gt;J. Karagicheva, M. Liebers, &lt;strong&gt;E. Rakhimberdiev&lt;/strong&gt;, K. K. Hallinger, A. Saveliev, and D. W. Winkler. Differences in size between first and replacement clutches match the seasonal decline in single clutches in tree swallows tachycineta bicolor. &lt;strong&gt;&lt;em&gt;Ibis&lt;/em&gt;&lt;/strong&gt;, 158(3): 607-613, 2016.&lt;/p&gt;
+      <title>Terms</title>
+      <link>https://eldarrak.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://eldarrak.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Pinning down an ever moving target - establishing when and where migrant shorebird populations are bottlenecked</title>
+      <link>https://eldarrak.github.io/talk/pinning-down-an-ever-moving-target-establishing-when-and-where-migrant-shorebird-populations-are-bottlenecked/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/pinning-down-an-ever-moving-target-establishing-when-and-where-migrant-shorebird-populations-are-bottlenecked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://eldarrak.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eldarrak.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>

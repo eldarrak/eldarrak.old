@@ -1,43 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on </title>
+    <title>Projects | Eldar Rakhimberdiev</title>
     <link>https://eldarrak.github.io/project/</link>
-    <description>Recent content in Projects on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Eldar Rakhimberdiev</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eldarrak.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eldarrak.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Eldar Rakhimberdiev</copyright><lastBuildDate>Mon, 10 May 2021 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eldarrak.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://eldarrak.github.io/project/</link>
+    </image>
     
     <item>
-      <title>Flyway ecology: full annual cycle ecology of long-distance migrants</title>
-      <link>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/population_ecology_of_long_distant_migrants/</guid>
-      <description>Where and how populations of seasonal migrants are limited? How parts of the annual cycle are interconnected? How migrants adjust to the ongoing changes?  To a great surprise we still have very limited answer to this questions. My current understanding is that there is not default limiting time or place and migratory populations respond to the selection pressures by adjusting their distributions in time and space. Together with Theunis Piersma, my teacher in Flyway Ecology, and his team we have already obtained some interesting results:</description>
+      <title>Movement ecology of migratory birds</title>
+      <link>https://eldarrak.github.io/project/movement-ecology-of-migratory-birds/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/movement-ecology-of-migratory-birds/</guid>
+      <description>&lt;p&gt;Conservation of populations of migratory birds requires knowledge of their annual routines. To study bird migration I develop and apply a range of animal tracking techniques from stable isotopes and solar geolocation, to Argos Doppler and recently GPS tracking with ICARUS tags.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Solar geolocation.&lt;/strong&gt; Working at Cornell I focused on developing statistical methods and software for the analysis of data collected by solar geolocators. Solar geolocators record light intensity values over time and are the lightest (0.34 g) available trackers that can be deployed on birds of a broad range of body size. I have developed a hidden Markov model that allows estimation of the geographic position of an animal from the recorded light levels. The likelihood of the model matches the observed rate of change in light intensity versus the expected one (Rakhimberdiev &lt;em&gt;et al.&lt;/em&gt; Mov. Ecol. 2015). Implemented in the CRAN R package FLightR, the model provides estimates of migration schedules, locations and migratory routes of the tracked birds (Rakhimberdiev et. al., Methods Ecol. Evol. 2017, see also &lt;a href=&#34;https://methodsblog.com/2018/06/12/solar-geolocation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my blog post&lt;/a&gt; ). The accuracy and precision of the model was tested in a study tracking a black-tailed godwit wearing two tags – a GPS and a geolocator (Rakhimberdiev et al. J. Avian Biol. 2016).&lt;/p&gt;
+&lt;p&gt;Recently we published a review on solar geolocation analysis methods in the Journal of Animal Ecology (Lisovski et. al. 2020).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: For my limited capacity for answering all FLightR and other geolocation related questions over email, please, consider &lt;a href=&#34;http://ornithologyexchange.org/forums/forum/259-geolocator-discussion-support/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ornithologyexchange&lt;/a&gt; and open issues for package problems at the &lt;a href=&#34;https://github.com/eldarrak/FLightR/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dedicated GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Isotope signatures in tissues.&lt;/strong&gt; For the birds recaptured after the migration flights we have developed an approach inferring duration of stopover based on the different rate of change of isotopic signatures between tissues (in this case blood plasma and cells). This method can be applied to birds of any size and allows to figure out whether an animal made a stop on the way and for how long did it stay.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Argos Doppler tracking.&lt;/strong&gt; This technique is the most used for tracking of migratory birds whose body mass exceeds 100g. It works well for studies at a continental scale, e.g. to explore whether bar-tailed godwits made stops migrating from the Wadden Sea, Northern Europe, to the Taimyr Peninsula, Arctic Russia (Nat. Comms. 2018). A serious issue of Argos Doppler tracking is that the positions have strongly varying spatial errors. Although Argos system supplies the information on the errors and strongly recommends using this information in the analyses, this recommendation is rarely followed. In collaboration with Dr. Julia Karagicheva I developed an approach that allows to account for these uncertainties in habitat use studies (Karagicheva et al. &lt;em&gt;in prep.&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. GPS tracking.&lt;/strong&gt; GPS tracking is becoming leading technology in animal movement studies, as GPS provides yet the highest  precision geographic positions, while miniaturization of GPS chips enables their use on a progressively broader spectrum of animals. The main limitation of GPS tracking is data transmission to the user as it commonly requires close contact with the tracked animal, e.g. in the &lt;a href=&#34;https://www.uva-bits.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UvA-BiTS system&lt;/a&gt;, developed at the University of Amsterdam, it takes tens of minutes to transmit data from the tag to handheld  (Rakhimberdiev et. al. 2015). At the moment the global data transmission is just becoming available via the antenna installed in the International Space Station (&lt;a href=&#34;https://www.icarus.mpg.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICARUS initiative&lt;/a&gt;). Over the last five years I was involved with beta testing of this system and am currently deploying ICARUS tags on Black-tailed godwits. Finally, in 2021, ICARUS works without any problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Data storage infrastructures.&lt;/strong&gt; There are several platforms for cloud storage and analysis of the movement data with the largest of them  – Movebank –accommodating principally all movement data types, from geolocator to ICARUS. I collaborate with Sarah Davidson on development of Movebank data standards (co-PI on solar geolocation data standard and software development at &lt;a href=&#34;https://www.nceas.ucsb.edu/workinggroups/establishing-open-source-animal-tracking-analysis-platform-archival-geolocators&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCEAS project establishing open source animal tracking analysis platform for archival geolocators&lt;/a&gt;), and with Martin Wikelski and Walter Jetz on development of data sharing licenses and cloud analysis services.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>FLightR: an R package for Solar Geolocation data Analysis</title>
-      <link>https://eldarrak.github.io/project/solar_geolocation/</link>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/solar_geolocation/</guid>
-      <description>While working at Cornell University with David Winkler in 2011 I started development of a new technique for solar geolocation data analysis. Solar geolocators are the tiniest devices one can put on animals that record only light levels over time. In 2012 I joined a project &amp;lsquo;Establishing an Open-source Animal-tracking Analysis Platform for Archival Geolocators&amp;rsquo; supported by the National Center for Ecological Analysis and Synthesis.
-In the end I have developed R package FLightR.</description>
+      <title>Population ecology and conservation of migratory birds</title>
+      <link>https://eldarrak.github.io/project/population-ecology-and-conservation-of-migratory-birds/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/population-ecology-and-conservation-of-migratory-birds/</guid>
+      <description>&lt;p&gt;Every year migratory birds travel Earth ecosystems in a pursuit of seasonal peaks of resources. Separated by thousands of kilometres and exposed to various climatic and anthropogenic disturbances, these ecosystems change in different ways and at diverse rates. It is most intriguing to me how the long-distance migrants fit their annual routines to these nonaligned trends they encounter running through their annual routine.&lt;/p&gt;
+&lt;p&gt;I took a deeper look into the ways migratory bird populations respond to the variation in conditions along the flyways. For this, I have applied a mixture of - often self-developed - analytical techniques, and integrated numerous demographic (capture-resight) and other data on birds’ biology with Earth-observation datasets. My main discovery is that (1) in stable avian populations, selection pressure is evenly distributed throughout the annual cycle and (2) seeking to achieve stability, the populations dissolve elevated selection pressures that arise during specific stages in the annual cycle by taking on higher fitness costs at other stages.&lt;/p&gt;
+&lt;p&gt;In Rakhimberdiev et al. 2016, J. Avian Biol. I use red knot Calidris canutus as an example to present my insight that deviation of mortality rates from baseline values anywhere in the annual cycle is a sign of maladaptation. I explore specific cases of rapid adaptation of annual routines in several migratory avian species: the ruff Philomachus pugnax (Rakhimberdiev et al. 2011, Div. Distr.), North American barn swallow Hirundo rustica (Winkler et al. 2017, Cur. Biol.) and the bar-tailed godwit Limosa lapponica (Rakhimberdiev et al. 2018, Nat. Comms). The latter publication demonstrates the mechanisms of fitness-cost redistribution from the breeding season to the earlier annual-cycle stages. However, redistribution of costs is limited, when selection pressure irreversibly carries over from the early developmental stages to adulthood (van Gils et al. 2016, Science).&lt;/p&gt;
+&lt;p&gt;The Dutch population of black-tailed godwits (Limosa limosa limosa) is going down, and the reason for the decline appears to be high level of nesting failure and brood mortality caused by intensification of agricultural practices. Currently I develop integrated population models to improve conservation of this species. Together with PhD student Marie Stessens and postdoc Dr. Rienk Fokkema I combine large and diverse datasets (including capture-resight of adults and juveniles, nest monitoring, chick radio-tracking and count data) within a spatially explicit model to determine the best agricultural practices for conservation of black-tailed godwits in the Netherlands.&lt;/p&gt;
+&lt;p&gt;In capture-recapture data collected within the project, I have discovered strong bias in estimates of survival probability arising from erroneous identification of individuals. I solve this problem by introducing a new class of robust design capture-resight models, accounting for misidentification (Rakhimberdiev et al., in revision, Methods Ecol. Evol.). Unbiased estimates delivered by these models are of critical importance for robust prognosis of population dynamics in animal conservation.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Breeding ecology of tree swallows</title>
-      <link>https://eldarrak.github.io/project/breeding_ecology_of_tree_swallows/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/project/breeding_ecology_of_tree_swallows/</guid>
-      <description>I had a pleasure to work in Ithaca with David Winkler. He started and for many years maintains a huge colony of nest boxes. Tree swallows living in these boxes are cute birds with low survival rates and this makes them different from shorebirds I used to work before. These birds just have to reproduce, so they arrive super early to get a nest box. Lay second clutch if the first was not successful and have to find food despite coldsnaps.</description>
+      <title>Living sentinels - an animal-based early warning system for environmental and wildlife welfare monitoring</title>
+      <link>https://eldarrak.github.io/project/living-sentinels-an-animal-based-early-warning-system-for-environmental-and-wildlife-welfare-monitoring/</link>
+      <pubDate>Mon, 10 May 2021 03:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/project/living-sentinels-an-animal-based-early-warning-system-for-environmental-and-wildlife-welfare-monitoring/</guid>
+      <description>&lt;p&gt;Current technology enables instant remote surveillance of environmental and wildlife welfare through observations of animals, who are the top environmental experts. When animals face environmental disasters, disturbance, or scarcity of resources, they change their behaviour. These stress-induced changes can be traced in movement time-series and used to pinpoint even latent environmental pressures experienced by individuals.&lt;/p&gt;
+&lt;p&gt;Today, thousands of animals of many species wear tracking devices that transmit measurements of their movements to central repositories. With these measurements, available to me through collaborations with Wikelski (Movebank), Jetz (Yale) and Bouten (University of Amsterdam), I build on the existing array of indicators of stress (changes in rhythmicity of behaviour, complexity of movements and early warning indicators) and on explosive progress in machine learning to develop a framework that uses these animals as living sensors. Implemented within &lt;a href=&#34;https://www.movebank.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movebank&lt;/a&gt; and &lt;a href=&#34;https://www.uva-bits.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UvA-BiTS&lt;/a&gt; movement data infrastructures, my animal-sensing approach will estimate likelihood of stress experienced by animals to enable near real-time global nature monitoring.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

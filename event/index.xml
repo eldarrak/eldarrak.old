@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Eldar Rakhimberdiev</title>
+    <link>https://eldarrak.github.io/event/</link>
+      <atom:link href="https://eldarrak.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Eldar Rakhimberdiev</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eldarrak.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://eldarrak.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Misidentification errors in reencounters result in biased estimates of survival from CJS models</title>
+      <link>https://eldarrak.github.io/talk/misidentification-errors-in-reencounters-result-in-biased-estimates-of-survival-from-cjs-models/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/misidentification-errors-in-reencounters-result-in-biased-estimates-of-survival-from-cjs-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flyway ecology - how long-distance migratory birds adapt to changing Earth’s seasonal environments</title>
+      <link>https://eldarrak.github.io/talk/flyway-ecology-how-long-distance-migratory-birds-adapt-to-changing-earths-seasonal-environments/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/flyway-ecology-how-long-distance-migratory-birds-adapt-to-changing-earths-seasonal-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinning down an ever moving target - establishing when and where migrant shorebird populations are bottlenecked</title>
+      <link>https://eldarrak.github.io/talk/pinning-down-an-ever-moving-target-establishing-when-and-where-migrant-shorebird-populations-are-bottlenecked/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://eldarrak.github.io/talk/pinning-down-an-ever-moving-target-establishing-when-and-where-migrant-shorebird-populations-are-bottlenecked/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

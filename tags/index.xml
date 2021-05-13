@@ -1,70 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags | Eldar Rakhimberdiev</title>
     <link>https://eldarrak.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 Eldar Rakhimberdiev</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eldarrak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://eldarrak.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Movement_ecology</title>
-      <link>https://eldarrak.github.io/tags/movement_ecology/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/movement_ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phd Project 2019</title>
-      <link>https://eldarrak.github.io/tags/phd-project-2019/</link>
-      <pubDate>Tue, 10 Apr 2018 20:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/phd-project-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phd Projects</title>
-      <link>https://eldarrak.github.io/tags/phd-projects/</link>
-      <pubDate>Thu, 17 Dec 2020 14:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/phd-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population_ecology</title>
-      <link>https://eldarrak.github.io/tags/population_ecology/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/population_ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://eldarrak.github.io/tags/software/</link>
-      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldarrak.github.io/tags/software/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://eldarrak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Eldar Rakhimberdiev</copyright><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eldarrak.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://eldarrak.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>
